@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**mcass99/mcass99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Michael Cassella
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The king of unfinished projects.
+
+
+### Links:
+
+
+- [Portfolio Site](https://www.youtube.com/channel/UCSXA3l4LSxeDuPfR5FP-Q_g)
+- [Discord Server](https://www.youtube.com/channel/UCSXA3l4LSxeDuPfR5FP-Q_g)
+- [YouTube](https://www.youtube.com/channel/UCSXA3l4LSxeDuPfR5FP-Q_g)
+
+
+<hr/>
+
+
+### Proficient In:
+
+
+  - Java
+  - HTML
+  - CSS
+
+
+### Learning:
+
+
+  - C#
