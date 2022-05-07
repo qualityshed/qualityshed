@@ -22,11 +22,12 @@ The king of unfinished projects.
 
 
   - Java
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
 
 
 ### Learning:
 
 
   - C#
+  - Javascript
