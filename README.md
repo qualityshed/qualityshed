@@ -18,16 +18,19 @@ The king of unfinished projects.
 <hr/>
 
 
-### Proficient In:
+### Languages:
 
 
   - Java
   - HTML5
   - CSS3
-
-
-### Learning:
-
-
-  - C#
   - Javascript
+
+
+### Tools/Technologies:
+
+
+  - Eclipse IDE
+  - Visual Studio Code
+  - Linux Mint
+  - Git
