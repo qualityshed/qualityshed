@@ -2,8 +2,6 @@
 # Michael Cassella
 
 
-New account!
-<br>
 The king of unfinished projects.
 
 
@@ -21,16 +19,15 @@ The king of unfinished projects.
 ### Languages:
 
 
-  - Java
-  - HTML5
-  - CSS3
-  - Javascript
+  - Java ☕
+  - HTML5 📘
+  - CSS3 🖌️
+  - Javascript ☕📜
 
 
 ### Tools/Technologies:
 
 
-  - Eclipse IDE
-  - Visual Studio Code
-  - Linux Mint
-  - Git
+  - Eclipse IDE 🌚
+  - Visual Studio Code 🐟
+  - Linux Mint 🐧
