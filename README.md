@@ -29,5 +29,12 @@ The king of unfinished projects.
 
 
   - Eclipse IDE 🌚
+  - IntelliJ 🧠
   - Visual Studio Code 🐟
   - Linux Mint 🐧
+
+
+### Learning:
+
+
+  - Swift 🍎
