@@ -40,3 +40,10 @@ The king of unfinished projects.
   - Swift 🍎
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="testtest" width="50px" height="50px">
+
+<style>
+  img{
+  background-color: white;
+  padding: 50px;
+  }
+</style>
