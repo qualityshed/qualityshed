@@ -20,6 +20,7 @@ The king of unfinished projects.
 
 
   - Java ☕
+  - C# ☕
   - HTML5 📘
   - CSS3 🖌️
   - Javascript ☕📜
@@ -30,11 +31,7 @@ The king of unfinished projects.
 
   - Eclipse IDE 🌚
   - IntelliJ 🧠
+  - Xcode 🍎
   - Visual Studio Code 🐟
   - Linux Mint 🐧
-
-
-### Learning:
-
-
-  - Swift 🍎
+  
