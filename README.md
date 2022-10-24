@@ -24,6 +24,7 @@ The king of unfinished projects.
   - HTML5 📘
   - CSS3 🖌️
   - Javascript ☕📜
+  - Skript <img src="https://avatars.githubusercontent.com/u/39464898?s=200&v=4" width="15px">
 
 
 ### Tools/Technologies:
