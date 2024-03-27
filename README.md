@@ -20,18 +20,14 @@ The king of unfinished projects.
 
 
   - Java ☕
-  - C# ☕
   - HTML5 📘
   - CSS3 🖌️
   - Javascript ☕📜
-  - Skript <img src="https://avatars.githubusercontent.com/u/39464898?s=200&v=4" width="15px">
-
 
 ### Tools/Technologies:
 
 
   - Eclipse IDE 🌚
-  - IntelliJ 🧠
   - Xcode 🍎
   - Visual Studio Code 🐟
   - Linux Mint 🐧
